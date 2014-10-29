@@ -9,3 +9,6 @@ Some of my ideas
   - Maybe have a main ML server to query when making general decision
 - Private diary blog thing
   - Share only with certain people, or just yourself
+- Study guides with google docs
+  - Require certain contributions to get access
+- Crowdsource revising sentence by sentence so no plagiarism
